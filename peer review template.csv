@@ -1,0 +1,13 @@
+Description:,This is a peer-review template for course G54PRG (programming in python).,,
+," For each cell marked as ""-- *** --""script, please delete text there and write corresponded  information.",,
+,"I will process this file using (python) script. So please write it carefully, I don't want to manually correct it",,
+,"If your group has n people, your will need to review (n-1) people (excluding you). You will have (n-1)*10 marks in total that you need to split for you friend.",,
+,ignore some lower row(s) if you have less people in your group.,,
+,,,
+Student ID,4270930,,
+Your Name,Jay Rathod,,
+Group Name,return to_sleep,,
+,,,
+Member 1,4288417,10,Amazing work
+Member 2,4217620,10,Amazing work
+Member 3,4184559,10,Amazing work
